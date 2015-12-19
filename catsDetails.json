@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Tabby",
+    "imgUrl": "http://cf.ltkcdn.net/cats/images/std/89759-425x283-Tabby-Scottish-Fold-Cross.jpg",
+    "description": "A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an 'M' on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. In fact, the tabby pattern is found in many breeds, as well as among the general mixed-breed population. The tabby pattern is a naturally occurring feature that may be related to the coloration of the domestic cat's direct ancestor, the African wildcat, which (along with the European wildcat and Asiatic wildcat) has a similar coloration."
+  },
+  {
+    "type": "British Shorthair",
+    "imgUrl": "http://www.kolingacats.co.uk/images/dante.jpg",
+    "description": "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively chunky body, dense coat and broad face. The most familiar colour variant is the 'British Blue', a solid blue-gray with copper eyes, but the breed has also been developed in a wide range of other colours and patterns, including tabby and colorpoint."
+  },
+  {
+    "type": "Tortoiseshell",
+    "imgUrl": "https://maueyes.files.wordpress.com/2014/04/dsc_0107-copy.jpg",
+    "description": "Tortoiseshell describes a cat coat colouring found almost exclusively in females, so-called because of the similarity to tortoiseshell material. Male Tortoiseshells appear only rarely, and those that do are commonly sterile.[a] Also called Torties for short, Tortoiseshell cats combine two colours other than white, either closely mixed or in larger patches. The colours are often described as red and black, but the 'red' patches can instead be orange, yellow, or cream, and the 'black' can instead be chocolate, grey, tabby, or blue. Tortoiseshell cats with the tabby pattern as one of their colours are sometimes referred to as a Torbie."
+  },
+  {
+    "type": "Ragdoll",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ragdoll_from_Gatil_Ragbelas.jpg",
+    "description": "The Ragdoll is a cat breed with blue eyes and a distinct colorpoint coat. It is a large and muscular semi-longhair cat with a soft and silky coat. Developed by American breeder Ann Baker, it is best known for its docile and placid temperament and affectionate nature. The name 'Ragdoll' is derived from the tendency of individuals from the original breeding stock to go limp and relaxed when picked up. Particularly popular in both the United Kingdom and the breeds' native United States, ragdoll cats often are known as 'dog-like cats' or 'puppy-like cats' due to behaviors such as their tendency to follow people around, their ease at being physically handled, and their relative lack of aggression toward other pets."
+  },
+  {
+    "type": "Abyssinian",
+    "imgUrl": "http://www.petwebsite.co.uk/media/k2/items/cache/22c02097e4438bd2f2f3fe4a6a3ab0e1_L.jpg",
+    "description": "The Abyssinian is a breed of domestic shorthaired cat with a distinctive 'ticked' tabby coat, in which individual hairs are banded with different colors.It is named after Abyssinia (now called Ethiopia) the country from which it was first thought to have originated; more recent research now places its origins somewhere near the Egyptian coast. The Abyssinian has since become one of the most popular breeds of shorthair cat in the USA."
+  }
+]

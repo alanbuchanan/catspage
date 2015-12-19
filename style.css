@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:100);
+
+body {
+    margin: 0 0 0 0;
+    color: lightgray;
+    font-family: 'Raleway', sans-serif;
+
+    font-weight: 100;
+}
+
+.Main {
+}
+
+
+
+.Header, .Panel1, .Cat, .Footer {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    background-color: gray;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Header h3 {
+    text-transform: uppercase;
+
+}
+
+.Panel1 {
+    text-transform: uppercase;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: gray;
+    flex: 1;
+
+}
+
+.Header {
+    flex-direction: row;
+    background-color: dimgray;
+    color: whitesmoke;
+}
+
+.Header ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+.Header ul li a {
+    padding: 14px 16px;
+}
+
+.CatContainer {
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.Cat {
+    padding: 10px;
+    max-width: 1000px;
+
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.Cat h1 {
+    font-size: 3em;
+}
+
+.Footer {
+    display: flex;
+    flex-direction: row;
+    background-color: dimgray;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+hr {
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
