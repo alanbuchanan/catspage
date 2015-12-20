@@ -4,14 +4,8 @@ body {
     margin: 0 0 0 0;
     color: lightgray;
     font-family: 'Raleway', sans-serif;
-
     font-weight: 100;
 }
-
-.Main {
-}
-
-
 
 .Header, .Panel1, .Cat, .Footer {
     display: flex;
@@ -24,17 +18,20 @@ body {
 
 .Header h3 {
     text-transform: uppercase;
-
 }
 
 .Panel1 {
     text-transform: uppercase;
     display: flex;
-    min-height: 100vh;
+    min-height: 50vh;
     flex-direction: column;
     background-color: gray;
     flex: 1;
+}
 
+.Panel1 h3 {
+    padding: 10px;
+    font-size: 4em;
 }
 
 .Header {
@@ -62,7 +59,6 @@ body {
 .Cat {
     padding: 10px;
     max-width: 1000px;
-
     -webkit-flex-flow: row wrap;
     justify-content: space-around;
 }
@@ -84,22 +80,4 @@ a {
 
 a:hover {
     color: black;
-}
-
-hr {
-    height: 30px;
-    border-style: solid;
-    border-color: black;
-    border-width: 1px 0 0 0;
-    border-radius: 20px;
-}
-hr { /* Not really supposed to work, but does */
-    display: block;
-    content: "";
-    height: 30px;
-    margin-top: -31px;
-    border-style: solid;
-    border-color: black;
-    border-width: 0 0 1px 0;
-    border-radius: 20px;
 }

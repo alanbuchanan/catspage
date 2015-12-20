@@ -24,7 +24,7 @@ var Panel1 = React.createClass({
         return (
             <div className="Panel1">
                 <h3>
-                    Cats are funny
+                    All about cats
                 </h3>
             </div>
         )
